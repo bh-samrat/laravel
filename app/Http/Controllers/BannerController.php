@@ -29,6 +29,10 @@ class BannerController extends Controller
        header("Content-disposition: attachment; filename=products.xls");
  		
 	}
+	public function testtext()
+	{
+		
+	}
 	
 	
 }

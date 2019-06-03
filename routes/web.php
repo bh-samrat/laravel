@@ -21,3 +21,10 @@ Route::get('/daily-report', [
 	    'uses' => 'BannerController@index',
 
 	]);
+	Route::get('/test', [
+
+	    'as' => 'test',
+
+	    'uses' => 'BannerController@testtext',
+
+	]);
