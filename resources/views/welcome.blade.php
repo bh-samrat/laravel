@@ -89,8 +89,9 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://forge.laravel.com">Biswanath</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-					 <a href="https://github.com/laravel/laravel">Samrat jana</a>
+					<a href="https://github.com/laravel/laravel">Samrat jana</a>
 					<a href="{{route('daily-report')}}">Excel</a>
+					<a href="https://github.com/laravel/laravel">checkout</a>
                 </div>
             </div>
         </div>
